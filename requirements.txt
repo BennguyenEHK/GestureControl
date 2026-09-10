@@ -1,0 +1,13 @@
+# Hand Gesture Control System - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision
+opencv-python>=4.8.0          # OpenCV for video capture and image processing
+mediapipe>=0.10.0             # Google MediaPipe for hand tracking
+
+
+# Automation
+pyautogui>=0.9.54             # PyAutoGUI for mouse and keyboard automation
+
+# Utilities
+numpy>=1.24.0                 # NumPy for numerical operations
