@@ -1,5 +1,5 @@
 # Gesture Control System - Technical Report
-## Executive Summary for CEO
+## Executive Summary 
 
 ---
 
